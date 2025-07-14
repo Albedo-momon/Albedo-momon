@@ -57,5 +57,3 @@
 
 > Built with ❤️ by Bhushan Raut – Fullstack Developer, Tech Explorer & Automation Enthusiast
 ```
-
-You can paste this directly into your `README.md` on GitHub for a clean, animated, and professional developer profile. Let me know if you want a dark/light switch or portfolio/project section added too!
