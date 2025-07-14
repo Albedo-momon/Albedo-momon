@@ -13,6 +13,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,nodejs,java,spring&theme=dark" />
+</p>
+
 <!--
 **Albedo-momon/Albedo-momon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
